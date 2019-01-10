@@ -9,3 +9,5 @@ import data
 from train import train
 from dgr import Scholar
 from models import WGAN, CNN
+
+11111111
